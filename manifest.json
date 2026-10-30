@@ -1,0 +1,14 @@
+{
+  "name": "바리스타 잡 준비",
+  "short_name": "바리스타",
+  "description": "면접 영어 · 매장 영어 · 손님 이름 · 컵 마킹 · 도켓 · 돈 · 자료실",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e7",
+  "theme_color": "#f7f1e7",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
